@@ -1,6 +1,8 @@
-<h1>Python Learning Journey</h1>
+ <h1>Python Learning Journey</h1>
 
-<img src="https://github.com/brenocandeu/python-learning-journey/blob/main/Logo_Python.png?raw=true" alt="Python Learning Journey" width="400">
+<div align="center">
+  <img src="https://github.com/brenocandeu/python-learning-journey/blob/main/Logo_Python.png?raw=true" alt="Python Learning Journey" width="400">
+</div>
 
 <p>Bem-vindo à minha jornada de aprendizado em Python! Aqui você encontrará uma coleção de scripts organizados por aula, nos quais registro meu progresso enquanto aprendo essa linguagem de programação versátil e poderosa.</p>
 
