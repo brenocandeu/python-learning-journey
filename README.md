@@ -1,6 +1,6 @@
 <h1>Python Learning Journey</h1>
 
-<img src="https://github.com/brenocandeu/python-learning-journey/blob/main/Logo_Python.png?raw=true" alt="Python Learning Journey">
+<img src="https://github.com/brenocandeu/python-learning-journey/blob/main/Logo_Python.png?raw=true" alt="Python Learning Journey" width="400">
 
 <p>Bem-vindo à minha jornada de aprendizado em Python! Aqui você encontrará uma coleção de scripts organizados por aula, nos quais registro meu progresso enquanto aprendo essa linguagem de programação versátil e poderosa.</p>
 
@@ -13,8 +13,9 @@
 <p>Cada aula é representada por uma pasta individual que contém os scripts e os arquivos relacionados àquela aula específica. Dentro de cada pasta de aula, você encontrará:</p>
 
 <ul>
-  <li><strong>Script principal</strong>: O script principal da aula, que demonstra os principais conceitos abordados.</li>
-  <li><strong>Arquivos adicionais</strong>: Quaisquer arquivos complementares necessários para executar o script principal.</li>
+  <li><strong>Scripts da aula</strong>: Os scripts desenvolvidos durante a aula, que demonstram os principais conceitos abordados.</li>
+  <li><strong>Arquivos adicionais</strong>: Quaisquer arquivos complementares necessários para executar os scripts da aula.</li>
+  <li><strong>Slides da aula</strong>: Os slides fornecidos durante a aula, que apresentam os conceitos e tópicos abordados de forma detalhada.</li>
   <li><strong>README.md</strong>: Um arquivo de leitura que fornece uma descrição detalhada dos conceitos e tópicos cobertos na respectiva aula.</li>
 </ul>
 
@@ -39,6 +40,11 @@
 
 <h2>Contato</h2>
 
-<p>Se você tiver alguma dúvida, sugestão ou apenas queira entrar em contato, fique à vontade para me enviar um e-mail em <a href="mailto:seu-email@example.com">seu-email@example.com</a> ou me encontrar no Twitter <a href="https://twitter.com/seu_usuario">@seu_usuario</a>.</p>
+<p>Se você tiver alguma dúvida, sugestão ou apenas queira entrar em contato, fique à vontade para me enviar um e-mail em <a href="mailto:brenocandeu16@gmail.com">brenocandeu16@gmail.com</a> ou me encontrar nas redes sociais:</p>
+<ul>
+  <li><a href="https://www.instagram.com/brenocandeu">Instagram</a></li>
+  <li><a href="https://twitter.com/BrenoCandeu">Twitter</a></li>
+  <li><a href="https://www.youtube.com/BrenoCandeu">YouTube</a></li>
+</ul>
 
 <p>Vamos aprender Python juntos! 🐍💻</p>
