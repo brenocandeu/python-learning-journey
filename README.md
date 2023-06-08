@@ -24,9 +24,9 @@
 <h2>Aulas Disponíveis</h2>
 
 <ul>
-  <li><a href="aula01/README.md">Aula 01: Introdução ao Python</a></li>
-  <li><a href="aula02/README.md">Aula 02: Estruturas de Controle</a></li>
-  <li><a href="aula03/README.md">Aula 03: Funções</a></li>
+  <li><a href="aula01/">Aula 01: Introdução ao Python</a></li>
+  <li><a href="aula02/">Aula 02: Estruturas de Controle</a></li>
+  <li><a href="aula03/">Aula 03: Funções</a></li>
 </ul>
 
 <h2>Contribuindo</h2>
