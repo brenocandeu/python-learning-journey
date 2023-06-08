@@ -27,9 +27,6 @@
   <li><a href="aula01/README.md">Aula 01: Introdução ao Python</a></li>
   <li><a href="aula02/README.md">Aula 02: Estruturas de Controle</a></li>
   <li><a href="aula03/README.md">Aula 03: Funções</a></li>
-  <li><a href="aula04/README.md">Aula 04: Listas e Tuplas</a></li>
-  <li><a href="aula05/README.md">Aula 05: Dicionários e Conjuntos</a></li>
-  <li><a href="aula06/README.md">Aula 06: Módulos e Pacotes</a></li>
 </ul>
 
 <h2>Contribuindo</h2>
